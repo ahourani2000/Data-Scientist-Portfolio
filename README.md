@@ -23,7 +23,7 @@ Here is some of my most recent work!
 ### Look Over Here!
 Code: 
 
-Technical Paper:
+Technical Paper: [Look Over Here!](Final MS Technical Paper.pdf)
 
 Goal:
 
