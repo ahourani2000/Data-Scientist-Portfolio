@@ -38,7 +38,7 @@ Results:
 ### Adversarial Machine Learning with Image Classification
 Code: 
 
-Technical Paper: [Adversarial Machine Learning](Final_MS_Technical_Paper.pdf)
+Technical Paper: [Adversarial Machine Learning](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/8ccfeaab108f17898e33146f6deb3eb55ac70364/CSS%20Final%20Project%20Report.pdf)
 
 Goal: Build an image classifier model and demonstrate an adversarial example.
 
