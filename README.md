@@ -10,7 +10,7 @@ My internship as a Software Cloud Developer Intern at Westlock Controls honed my
 
 This repository serves as a portfolio showcasing my most recent work Data Analytics/Data Science.
 
-My CV: 
+My CV: [Resume](Resume.pdf)
 
 # Table of Contents
 
