@@ -34,3 +34,18 @@ Skills:
 Technology:
 
 Results:
+
+### Adversarial Machine Learning with Image Classification
+Code: 
+
+Technical Paper: [Adversarial Machine Learning](Final_MS_Technical_Paper.pdf)
+
+Goal: Build an image classifier model and demonstrate an adversarial example.
+
+Description:
+
+Skills:
+
+Technology:
+
+Results:
