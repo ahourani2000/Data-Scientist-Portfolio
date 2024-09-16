@@ -25,7 +25,7 @@ Code:
 
 Technical Paper: [Look Over Here!](Final MS Technical Paper.pdf)
 
-Goal:
+Goal: Establish a relationship between video game performance and gaze positions.
 
 Description:
 
