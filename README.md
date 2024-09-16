@@ -10,6 +10,27 @@ My internship as a Software Cloud Developer Intern at Westlock Controls honed my
 
 This repository serves as a portfolio showcasing my most recent work Data Analytics/Data Science.
 
+My CV: 
+
 # Table of Contents
 
 [About](https://github.com/ahourani2000/Data-Scientist-Portfolio/edit/main/README.md#about)
+
+# Portfolio Projects
+
+Here is some of my most recent work! 
+
+### Look Over Here!
+Code: 
+
+Technical Paper:
+
+Goal:
+
+Description:
+
+Skills:
+
+Technology:
+
+Results:
