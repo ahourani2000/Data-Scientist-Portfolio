@@ -27,13 +27,13 @@ Technical Paper: [Look Over Here!](Final_MS_Technical_Paper.pdf)
 
 Goal: Establish a relationship between video game performance and gaze positions.
 
-Description:
+Description: This project explores the correlation between gaze data and game performance using a dataset featuring 16 Atari games. Leveraging feature engineering and machine learning, the study aimed to discern differences in gaze patterns between skilled and less-skilled players. The main dataset included the game, mean validation error, mean best score, mean top score, and difficulty level. The gaze dataset included (x,y) coordinate pairs for each frame of a video game session for every game.
 
-Skills:
+Skills: Data Cleaning, Data Preprocessing, Feature Engineering, Data Visualization, Data Exploration
 
-Technology:
+Technology: Python, Pandas, 
 
-Results:
+Results: The results of this project concluded that there was a correlation between gaze data and game performance. 
 
 ### Adversarial Machine Learning with Image Classification
 Code: 
@@ -42,10 +42,10 @@ Technical Paper: [Adversarial Machine Learning](https://github.com/ahourani2000/
 
 Goal: Build an image classifier model and demonstrate an adversarial example.
 
-Description:
+Description: This project delves into the exploration of adversarial attacks, focusing on white-box scenarios, and introduces the Projected Gradient Descent method as an iterative optimization-based adversarial attack. It describes the process of creating an image classifier model using convolutional neural networks, and demonstrates an example of an adversarial image using PGD.
 
-Skills:
+Skills: Machine Learning, Deep Learning, Image Classification, Security 
 
 Technology:
 
-Results:
+Results: The results demonstrate the model's susceptibility to adversarial perturbations, leading to misclassifications, shedding light on the importance of retraining models with adversarial examples to enhance robustness.
