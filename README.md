@@ -23,7 +23,7 @@ Here is some of my most recent work!
 ### Look Over Here!
 Code: 
 
-Technical Paper: [Look Over Here!]()
+Technical Paper: [Look Over Here!](Final_MS_Technical_Paper.pdf)
 
 Goal: Establish a relationship between video game performance and gaze positions.
 
