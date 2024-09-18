@@ -21,7 +21,7 @@ My CV: [Resume](Resume.pdf)
 Here is some of my most recent work! 
 
 ### Look Over Here!
-**Code:** 
+**Code:** [Look Over Here! Jupyter Notebook](MS Technical Paper.ipynb)
 
 **Technical Paper:** [Look Over Here!](Final_MS_Technical_Paper.pdf)
 
