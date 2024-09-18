@@ -47,3 +47,9 @@ Here is some of my most recent work!
 **Technology:** Python, Jupyter Notebook, Tensorflow, Numpy, Matplotlib, Keras
 
 **Results:** The results demonstrate the model's susceptibility to adversarial perturbations, leading to misclassifications, shedding light on the importance of retraining models with adversarial examples to enhance robustness.
+
+# Education
+
+Rutgers University, School of Graduate Studies: Master of Science - Software Engineering (Sep 2022 - Dec 2023)
+
+Rutgers University, School of Engineering: Bachelor of Science - Electrical and Computer Engineering (Sep 2019-May 2023)
