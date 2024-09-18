@@ -21,7 +21,7 @@ My CV: [Resume](Resume.pdf)
 Here is some of my most recent work! 
 
 ### Look Over Here!
-**Code:** [Look Over Here! Jupyter Notebook](MS Technical Paper.ipynb)
+**Code:** [Look Over Here! Jupyter Notebook](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/MS%20Technical%20Paper.ipynb)
 
 **Technical Paper:** [Look Over Here!](Final_MS_Technical_Paper.pdf)
 
