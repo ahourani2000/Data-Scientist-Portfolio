@@ -38,9 +38,9 @@ Here is some of my most recent work!
 - Identify top factors influencing resale value.
 
 **Tools & Technologies:**
-- *Python*: pandas, scikit-learn, Random Forest, XGBoost, matplotlib, seaborn
-- *Jupyter Notebook*: Data wrangling, modeling, evaluation
-- *Tableau*: Business-focused data visualization
+- *Python*: pandas, scikit-learn, Random Forest, XGBoost, matplotlib, seaborn.
+- *Jupyter Notebook*: Data wrangling, modeling, evaluation.
+- *Tableau*: Business-focused data visualization.
 - *Dataset*: [Kaggle - Used Cars Dataset (U.S. listings)](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
 
 
@@ -58,7 +58,7 @@ Here is some of my most recent work!
 - Visualize differences in gaze patterns between skilled and less-skilled players.
 
 **Tools & Technologies:** 
-- *Python*: pandas, numpy, scipy, matplotlib, scikit-learn, GMM
+- *Python*: pandas, numpy, scipy, matplotlib, scikit-learn, GMM.
 - *Jupyter Notebook*: Data cleaning, preprocessing, feature engineering, modeling, exploration.
 - *Dataset*: [Atari-HEAD: Atari Human Eye-Tracking and Demonstration Dataset](https://zenodo.org/records/3451402)
 
@@ -82,8 +82,9 @@ Here is some of my most recent work!
 - Highlight application in fraud detection and AI security.
 
 **Tools & Technologies:** 
-- *Python*: Tensorflow, numpy, pandas, matplotlib, Keras
-- *Jupyter Notebook*: Data wrangling, preprocessing, deep learning, modeling, classification, security
+- *Python*: Tensorflow, numpy, pandas, matplotlib, Keras.
+- *Jupyter Notebook*: Data wrangling, preprocessing, deep learning, modeling, classification, security.
+- *Dataset*: Collection of images extracted from GOogle using the Download All Images Extension.
 
 **Results:** 
 - Achieved 95% classification accuracy.
