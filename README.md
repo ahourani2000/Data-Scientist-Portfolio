@@ -14,7 +14,7 @@ My CV: [Resume](Aya-Hourani-Resume.pdf)
 
 # Education
 
-*Rutgers University, School of Graduate Studies*: Master of Science (M.S.) Software Engineering (Sep 2022 - Dec 2023)
+*Rutgers University, School of Graduate Studies*: (M.S.) Software Engineering (Sep 2022 - Dec 2023)
 
 *Rutgers University, School of Engineering*: (B.S.) Electrical and Computer Engineering (Sep 2019 - May 2023)
 
