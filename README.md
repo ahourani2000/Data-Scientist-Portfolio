@@ -31,7 +31,7 @@ Here is some of my most recent work!
 - Predict the prices of used German car brands listed in the United States using Python and machine learning.
 
 **Objectives:** 
-- Explore market pricing trends of German cars in the U.S.
+- Uncover trends in resale value and performance across different U.S. states and conditions.
 - Build regression models to predict used car prices.
 - Compare the performance of *Random Forest* and *XGBoost*.
 - Visualize model performance and feature importance.
