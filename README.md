@@ -10,7 +10,7 @@ My internship as a Software Cloud Developer Intern at Westlock Controls honed my
 
 This repository serves as a portfolio showcasing my most recent work in Data Science/Data Analytics.
 
-My CV: [Resume](Resume.pdf)
+My CV: [Resume](Aya-Hourani-Resume.pdf)
 
 # Education
 
