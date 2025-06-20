@@ -23,7 +23,7 @@ My CV: [Resume](Aya-Hourani-Resume.pdf)
 Here is some of my most recent work! 
 
 ## *Driven by Data: German Car Price Prediction (U.S. Market)*
-**Code:** [Driven by Data Jupyter Notebook] (Coming Soon)
+**Code:** [Driven by Data Jupyter Notebook](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/Driven%20by%20Data.ipynb)
 
 **Tableau Dashboard:** (Coming Soon)
 
