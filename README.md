@@ -33,7 +33,7 @@ Welcome! I'm Aya, a data scientist with an M.S. in Software Engineering from Rut
 - Engineered features from 150+ gameplay sessions  
 - Achieved silhouette scores between 0.35–0.55
    
-[Jupyter Notebook](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/MS%20Technical%20Paper.ipynb) | [Paper](link)
+[Jupyter Notebook](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/MS%20Technical%20Paper.ipynb) | [Paper](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/Final_MS_Technical_Paper.pdf)
 
 ---
 
