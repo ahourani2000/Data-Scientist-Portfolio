@@ -22,7 +22,7 @@ Welcome! I'm Aya, a data scientist with an M.S. in Software Engineering from Rut
 - Compared model performance with cross-validation  
 - Visualized top predictive features and state-level price trends
    
-[Jupyter Notebook](link) |  Tableau Dashboard (Coming Soon)
+[Jupyter Notebook](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/Driven%20by%20Data.ipynb) |  Tableau Dashboard (Coming Soon)
 
 ---
 
