@@ -44,7 +44,7 @@ Welcome! I'm Aya, a data scientist with an M.S. in Software Engineering from Rut
 - Simulated 3 PGD-based adversarial attacks  
 - Demonstrated security risks in ML model deployments
   
-[Classifier Code](link) | [Adversarial PGD Code](link) | [Paper](link)
+[Classifier Code](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/Image%20Classifier%20Model.ipynb) | [Adversarial PGD Code](link) | [Paper](link)
 
 ---
 
