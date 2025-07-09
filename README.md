@@ -60,6 +60,5 @@ Welcome! I'm Aya, a data scientist with an M.S. in Software Engineering from Rut
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/aya-hourani)  
-- [Resume](link to resume PDF in repo or portfolio site)  
-- [Other Projects on GitHub](https://github.com/ahourani2000)
+- [Resume](https://github.com/ahourani2000/Data-Scientist-Portfolio/blob/main/Aya-Hourani-Resume.pdf)  
 
